@@ -67,7 +67,10 @@ section.home {
     z-index: 20;
 }
 
-.logo a {
+.logo a, 
+.logo a:hover, 
+.logo a:visited, 
+.logo a:active {
     text-decoration: none;
     color: #111;
 }
