@@ -10,7 +10,7 @@ This is a website for a pretend creative agency that I created by following [thi
 </p>
 
 ### Links
-- Live site URL: []()
+- Live site URL: [https://ellieroy.github.io/creative-agency-website/](https://ellieroy.github.io/creative-agency-website/)
 
 ### Built with 
 - Semantic HTML5 markup
