@@ -6,7 +6,7 @@ This is a website for a pretend creative agency that I created by following [thi
 
 <p float="left">
   <img src="./final-result/final-result-web.png" width="600"/> 
-  <img src="./final-result/final-result-mobile.png" width="200"/> 
+  <img src="./final-result/final-result-mobile-web.png" width="200"/> 
 </p>
 
 ### Links
